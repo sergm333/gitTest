@@ -1,3 +1,13 @@
 body{
     background-color: aquamarine;
 }
+h1,p{
+    text-align: center;
+}
+h1{
+    color: darkkhaki;
+    font-weight: 900;
+}
+p{
+    color: blueviolet;
+}
